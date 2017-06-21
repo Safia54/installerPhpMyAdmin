@@ -32,9 +32,9 @@ Depuis la ligne de commande du terminal: `sudo apt-get install https://files.php
 
 4. Taper **dans sa ligne de commande du terminal** `mysql -u root -p` afin de configurer l'utilisation de l'interface phpMyAdmin comme utilisateur.
 
-5. Ton terminal te demande le mot de passe de l'utilisateur root. Indique ton mot de passe et retient-le.
+5. Ton terminal te demande le mot de passe de l'utilisateur root. Indique ton mot de passe et retiens-le.
 
-6. Puisque tu as déjà installé un serveur comme dit au point 1., rend-toi **depuis ton navigateur** sur ton localhost, et indique le chemin vers ton dossier phpmyadmin que tu as placé et renommé comme indiqué au point 3. 
+6. Puisque tu as déjà installé un serveur comme dit au point 1., rends-toi **depuis ton navigateur** sur ton localhost, et indique le chemin vers ton dossier phpmyadmin que tu as placé et renommé comme indiqué au point 3. 
 > par exemple : localhost/phpmyadmin 
 
 (Attention, lorsque tu as nommé ton dossier avec des majuscules, recopie le nom tel quel dans le chemin du localhost car c'est sensible à la case.)
