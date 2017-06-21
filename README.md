@@ -27,24 +27,28 @@ Il permet d'administrer les éléments suivants :
 
 Depuis la ligne de commande du terminal: `sudo apt-get install https://files.phpmyadmin.net/phpMyAdmin/4.7.1/phpMyAdmin-4.7.1-all-languages.zip` 
 
-3. S'assurer que le dossier phpMyAdmin téléchargé se retrouve dans le dossier où sont entreposés vos fichiers de serveur de base de données, et le renommer avec un mom plus court > ex : phpmyadmin. 
+3. S'assurer que le dossier phpMyAdmin téléchargé se retrouve dans le dossier où sont entreposés vos fichiers de serveur de base de données, et le renommer avec un mom plus court 
+> ex : phpmyadmin. 
 
 4. Taper **dans sa ligne de commande du terminal** `mysql -u root -p` afin de configurer l'utilisation de l'interface phpMyAdmin comme utilisateur.
 
 5. Ton terminal te demande le mot de passe de l'utilisateur root. Indique ton mot de passe et retient-le.
 
-6. Puisque tu as déjà installé un serveur comme dit au point 1., rend-toi **depuis ton navigateur** sur ton localhost, et indique le chemin vers ton dossier phpmyadmin que tu as placé et renommé comme indiqué au point 3., > par exemple : localhost/phpmyadmin 
+6. Puisque tu as déjà installé un serveur comme dit au point 1., rend-toi **depuis ton navigateur** sur ton localhost, et indique le chemin vers ton dossier phpmyadmin que tu as placé et renommé comme indiqué au point 3. 
+> par exemple : localhost/phpmyadmin 
+
 (Attention, lorsque tu as nommé ton dossier avec des majuscules, recopie le nom tel quel dans le chemin du localhost car c'est sensible à la case.)
 
 
 
 ### Débuggages d'installation
 
-Pour ceux qui ont des problèmes pour installer phpMyAdmin avec une erreur **mbstring**, 
+Pour ceux qui ont des problèmes pour installer phpMyAdmin avec une erreur **mbstring**, voici la soluce:
 
-voici la soluce:
     `sudo apt-get install libapache2-mod-php7.0`
+    
     `sudo apt-get install php7.0-mbstring`
+    
     `sudo service apache2 restart`
 
 
