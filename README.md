@@ -39,6 +39,9 @@ Depuis la ligne de commande du terminal: `sudo apt-get install https://files.php
 
 (Attention, lorsque tu as nommé ton dossier avec des majuscules, recopie le nom tel quel dans le chemin du localhost car c'est sensible à la case.)
 
+7. Il te demande ton nom d'utilisateur qui est root et ton mot de passe tel que retenu au point 5.
+
+8. Te voilà sur phpMyAdmin ! Tu peux créer des bases de données, des tableaux et des colonnes plus facilement grâce à cet outil !
 
 
 ## Débuggage d'installation
