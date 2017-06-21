@@ -1,4 +1,4 @@
-# Installer phpMyAdmin
+# Comment installer phpMyAdmin ?
 #### Avec soluce de débuggage 
 
 
