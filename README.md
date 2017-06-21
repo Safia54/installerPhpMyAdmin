@@ -1,4 +1,4 @@
-# installerPhpMyAdmin
+# Installer PhpMyAdmin
 ## Avec soluce de debuggage 
 
 
@@ -20,7 +20,12 @@ Il permet d'administrer les éléments suivants :
     Si ce n'est pas fait : vous pouvez [suivre les instructions ici](https://github.com/becodeorg/BeCode/wiki/Installer-LAMP-sur-Ubuntu) qui explique comment installer LAMP (**L**inux **A**pache **M**ySQL **P**hp) sur Ubuntu.
     
 2. Télécharger le dossier [disponible sur le site officiel de phpMyAdmin](https://www.phpmyadmin.net/)
-3. le 
+*OU*
+Depuis la ligne de commande : `sudo apt-get install https://files.phpmyadmin.net/phpMyAdmin/4.7.1/phpMyAdmin-4.7.1-all-languages.zip` 
+
+3. S'assurer que le dossier phpMyAdmin téléchargé se retrouve dans le dossier où sont entreposés vos fichiers de serveur de base de données.
+
+4. 
 
 ### Débuggages d'installation
 
