@@ -1,5 +1,5 @@
 # Installer phpMyAdmin
-#### Avec soluce de debuggage 
+#### Avec soluce de débuggage 
 
 
 
@@ -41,9 +41,9 @@ Depuis la ligne de commande du terminal: `sudo apt-get install https://files.php
 
 
 
-## Débuggages d'installation
+## Débuggage d'installation
 
-Pour ceux qui ont des problèmes pour installer phpMyAdmin avec une erreur **mbstring**, voici la soluce:
+Pour ceux qui ont des problèmes pour installer phpMyAdmin avec une erreur **mbstring**, voici la soluce depuis le terminal :
 
 `sudo apt-get install libapache2-mod-php7.0`
 
