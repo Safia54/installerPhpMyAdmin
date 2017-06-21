@@ -3,7 +3,7 @@
 
 
 
-### A quoi sert phpMyAdmin ?
+## A quoi sert phpMyAdmin ?
  
 phpMyAdmin est un outil qui permet de lire une base donnée SQL. 
 
@@ -16,7 +16,7 @@ Il permet d'administrer les éléments suivants :
 * les utilisateurs de la base et leurs permissions
 * exporter les données dans divers formats (CSV, XML, PDF, OpenDocument, Word, Excel et LaTeX)
 
-### Installation
+## Installation
 
 1. Avant de *vouloir* installer phpMyAdmin, c'est qu'on a déjà installé un serveur de base de données comme MySQL pour le plus connu.
     Si ce n'est pas fait : vous pouvez [suivre les instructions ici](https://github.com/becodeorg/BeCode/wiki/Installer-LAMP-sur-Ubuntu) qui explique comment installer LAMP (**L**inux **A**pache **M**ySQL **P**hp) sur Ubuntu.
@@ -41,7 +41,7 @@ Depuis la ligne de commande du terminal: `sudo apt-get install https://files.php
 
 
 
-### Débuggages d'installation
+## Débuggages d'installation
 
 Pour ceux qui ont des problèmes pour installer phpMyAdmin avec une erreur **mbstring**, voici la soluce:
 
@@ -52,6 +52,6 @@ Pour ceux qui ont des problèmes pour installer phpMyAdmin avec une erreur **mbs
 `sudo service apache2 restart`
 
 
-### Docu officielle
+## Docu officielle
 
 Il est toujours intéressant de se référer à [la documentation en ligne officielle de phpMyAdmin](http://localhost/phpmyadmin/doc/html/index.html).
