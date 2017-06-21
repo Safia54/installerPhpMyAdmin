@@ -1,5 +1,5 @@
 # Installer phpMyAdmin
-## Avec soluce de debuggage 
+#### Avec soluce de debuggage 
 
 
 
