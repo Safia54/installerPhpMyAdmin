@@ -45,11 +45,11 @@ Depuis la ligne de commande du terminal: `sudo apt-get install https://files.php
 
 Pour ceux qui ont des problèmes pour installer phpMyAdmin avec une erreur **mbstring**, voici la soluce:
 
-    `sudo apt-get install libapache2-mod-php7.0`
-    
-    `sudo apt-get install php7.0-mbstring`
-    
-    `sudo service apache2 restart`
+`sudo apt-get install libapache2-mod-php7.0`
+
+`sudo apt-get install php7.0-mbstring`
+
+`sudo service apache2 restart`
 
 
 ### Docu officielle
