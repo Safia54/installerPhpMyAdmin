@@ -7,7 +7,7 @@
  
 phpMyAdmin est un outil en interface qui permet de lire une base de donnée SQL accessible depuis un navigateur en local. 
 
-*ou sinon expliqué plus complètement [ici par la doc Ubuntu](https://doc.ubuntu-fr.org/phpmyadmin)*
+*Ou expliqué plus complètement [ici par la doc Ubuntu](https://doc.ubuntu-fr.org/phpmyadmin)*
 
 ## Installation
 
