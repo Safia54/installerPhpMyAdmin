@@ -25,7 +25,7 @@ Il permet d'administrer les éléments suivants :
 
 *OU*
 
-Depuis la ligne de commande du terminal: `sudo apt-get install https://files.phpmyadmin.net/phpMyAdmin/4.7.1/phpMyAdmin-4.7.1-all-languages.zip` 
+Depuis la ligne de commande du terminal: `sudo wget https://files.phpmyadmin.net/phpMyAdmin/4.7.1/phpMyAdmin-4.7.1-all-languages.zip` 
 
 3. S'assurer que le dossier phpMyAdmin téléchargé se retrouve dans le dossier où sont entreposés vos fichiers de serveur de base de données, et le renommer avec un mom plus court 
 > ex : phpmyadmin. 
