@@ -5,16 +5,9 @@
 
 ## A quoi sert phpMyAdmin ?
  
-phpMyAdmin est un outil qui permet de lire une base donnée SQL. 
+phpMyAdmin est un outil en interface qui permet de lire une base de donnée SQL accessible depuis un navigateur en local. 
 
-phpMyAdmin est une interface d'administration pour le SGBD MySQL. Il est écrit en langage PHP et s'appuie sur le serveur HTTP Apache.
-
-Il permet d'administrer les éléments suivants :
-* les bases de données
-* les tables et leurs champs (ajout, suppression, définition du type)
-* les index, les clés primaires et étrangères
-* les utilisateurs de la base et leurs permissions
-* exporter les données dans divers formats (CSV, XML, PDF, OpenDocument, Word, Excel et LaTeX)
+*ou sinon expliqué plus complètement [ici par la doc Ubuntu](https://doc.ubuntu-fr.org/phpmyadmin)*
 
 ## Installation
 
